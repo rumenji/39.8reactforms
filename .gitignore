@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+ColorBoxMaker/node_modules/
+ToDo/node_modules/
+node_modules/
